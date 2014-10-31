@@ -1,2 +1,5 @@
 *.lst
 *.pdf
+*.csv
+*.json
+*.pickle
